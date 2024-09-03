@@ -5,9 +5,7 @@
 
 - 👯 I’m looking to collaborate on **anything :)**
 
-- 💬 Ask me about **project and i will answer it :)**
-
-- 📫 How to reach me **bintarannas02@gmail.com**
+- 💬 Feel free to ask me about project
 
 - ⚡ Fun fact **I am lazy (JK okay :D)**
 
