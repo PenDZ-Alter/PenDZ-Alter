@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Annas Bintar</h1>
-<h3>An Enthusiast Programmer from Indonesia</h3>
+<h3>A newbie developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Frameworks and AI/ML**
 
