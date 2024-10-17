@@ -7,7 +7,7 @@
 
 - 💬 Feel free to ask me about project
 
-- ⚡ Fun fact **I am hiding my php stat :D**
+- ⚡ Fun fact **I'm hiding my php stat :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
