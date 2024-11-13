@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **anything 😊**
 
-- 💬 Feel free to ask me about **My Project**
+- 💬 Feel free to ask me about **My Project** 😁
 
 - ⚡ Fun fact : **I'm hiding my PHP and JS stats 😂**
 
