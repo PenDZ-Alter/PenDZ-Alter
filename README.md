@@ -7,7 +7,7 @@
 
 - 💬 Feel free to ask me about **My Project** 😁
 
-- ⚡ Fun fact : **I'm hiding my web and jupyter stats 😂**
+- ⚡ Fun fact : **I'm hiding some stats 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
