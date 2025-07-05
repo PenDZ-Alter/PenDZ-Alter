@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Annas Bintar</h1>
 <h3>Budding developer from Indonesia exploring the infinite realms of code and anime.</h3>
 
-- 🌱 I’m currently learning : **More Frameworks and Machine Learning**
+- 🌱 I’m currently learning **Deep Learning and Frameworks**
 
 - 👯 I’m looking to collaborate on **anything 😊**
 
