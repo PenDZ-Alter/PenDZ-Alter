@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Annas Bintar</h1>
-<h3>Budding developer from Indonesia exploring the infinite realms of code and anime.</h3>
+<h3>Budding developer from Indonesia exploring the infinite realms of computer and anime.</h3>
 
 - 🌱 I’m currently learning **Deep Learning and Frameworks**
 
